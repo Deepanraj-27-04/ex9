@@ -1,3 +1,6 @@
 [submodule "Deepan"]
 	path = Deepan
 	url = https://github.com/Deepanraj-27-04/Deepan.git
+[submodule "subdir"]
+	path = subdir
+	url = C:\\Users\\deepa\\ex9\\subdir
